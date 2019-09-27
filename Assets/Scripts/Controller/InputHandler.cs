@@ -16,6 +16,7 @@ namespace SA
         bool reloadInput;
         bool switchInput;
         bool pivotInput;
+        bool tets;
 
         bool isInit;
 
